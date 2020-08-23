@@ -1,0 +1,44 @@
+Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission
+AEB,2,2,2,2,0,2
+AMBA,3,3,3,3,0,3
+Arianespace,7,7,7,7,2,7
+Boeing,3,3,3,3,0,3
+CASC,14,14,14,14,3,14
+CASIC,2,2,2,2,0,2
+CECLES,3,3,3,3,0,3
+CNES,2,2,2,2,0,2
+EER,1,1,1,1,1,1
+ESA,3,3,3,3,0,3
+Eurockot,1,1,1,1,1,1
+ExPace,1,1,1,1,1,1
+Exos,1,1,1,1,0,1
+General Dynamics,37,37,37,37,0,37
+IAI,2,2,2,2,0,2
+ISA,8,8,8,8,0,8
+ISAS,3,3,3,3,0,3
+ISRO,8,8,8,8,5,8
+JAXA,1,1,1,1,0,1
+KARI,2,2,2,2,0,2
+KCST,3,3,3,3,0,3
+Kosmotras,1,1,1,1,1,1
+Landspace,1,1,1,1,0,1
+Lockheed,5,5,5,5,0,5
+MHI,2,2,2,2,0,2
+MITT,1,1,1,1,0,1
+Martin Marietta,11,11,11,11,2,11
+NASA,11,11,11,11,2,11
+Northrop,7,7,7,7,7,7
+OneSpace,1,1,1,1,0,1
+RAE,1,1,1,1,0,1
+RVSN USSR,121,121,121,121,0,121
+Rocket Lab,2,2,2,2,2,2
+Roscosmos,3,3,3,3,0,3
+SRC,1,1,1,1,0,1
+Sandia,1,1,1,1,1,1
+Sea Launch,3,3,3,3,0,3
+SpaceX,4,4,4,4,4,4
+US Air Force,30,30,30,30,2,30
+US Navy,14,14,14,14,0,14
+UT,4,4,4,4,0,4
+VKS RF,7,7,7,7,1,7
+Virgin Orbit,1,1,1,1,1,1
