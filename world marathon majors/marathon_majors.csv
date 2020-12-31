@@ -19,7 +19,7 @@ year,winner,gender,country,time,marathon
 2010,Alevtina Biktimirova,Female,Russia,02:34:39,Tokyo
 2009,Salim Kipsang,Male,Kenya,02:10:27,Tokyo
 2009,Mizuho Nasukawa,Female,Japan,02:25:38,Tokyo
-2008,Viktor Rˆthlin,Male,Switzerland,02:07:23,Tokyo
+2008,Viktor R√∂thlin,Male,Switzerland,02:07:23,Tokyo
 2008,Claudia Dreher,Female,Germany,02:35:35,Tokyo
 2007,Daniel Njenga,Male,Kenya,02:09:45,Tokyo
 2007,Hitomi Niiya,Female,Japan,02:31:02,Tokyo
@@ -65,12 +65,12 @@ year,winner,gender,country,time,marathon
 1998,Marleen Renders,Female,Belgium,02:25:22,Berlin
 1997,Elijah Lagat,Male,Kenya,02:07:41,Berlin
 1997,Catherina McKiernan,Female,Ireland,02:23:44,Berlin
-1996,Abel AntÛn,Male,Spain,02:09:15,Berlin
+1996,Abel Ant√≥n,Male,Spain,02:09:15,Berlin
 1996,Colleen De Reuck,Female,South Africa,02:26:35,Berlin
 1995,Sammy Lelei,Male,Kenya,02:07:02,Berlin
 1995,Uta Pippig,Female,Germany,02:25:37,Berlin
-1994,AntÛnio Pinto,Male,Portugal,02:08:31,Berlin
-1994,Katrin Dˆrre-Heinig,Female,Germany,02:25:15,Berlin
+1994,Ant√≥nio Pinto,Male,Portugal,02:08:31,Berlin
+1994,Katrin D√∂rre-Heinig,Female,Germany,02:25:15,Berlin
 1993,Xolile Yawa,Male,South Africa,02:10:57,Berlin
 1993,Renata Kokowska,Female,Poland,02:26:20,Berlin
 1992,David Tsebe,Male,South Africa,02:08:07,Berlin
@@ -80,17 +80,17 @@ year,winner,gender,country,time,marathon
 1990,Steve Moneghetti,Male,Australia,02:08:16,Berlin
 1990,Uta Pippig,Female,Germany,02:28:37,Berlin
 1989,Alfredo Shahanga,Male,Tanzania,02:10:11,Berlin
-1989,P‰ivi Tikkanen,Female,Finland,02:28:45,Berlin
+1989,P√§ivi Tikkanen,Female,Finland,02:28:45,Berlin
 1988,Suleiman Nyambui,Male,Tanzania,02:11:45,Berlin
 1988,Renata Kokowska,Female,Poland,02:29:16,Berlin
 1987,Suleiman Nyambui,Male,Tanzania,02:11:11,Berlin
-1987,Kerstin Preﬂler,Female,Germany,02:31:22,Berlin
+1987,Kerstin Pre√üler,Female,Germany,02:31:22,Berlin
 1986,Boguslaw Psujek,Male,Poland,02:11:03,Berlin
 1986,Charlotte Teske,Female,Germany,02:32:10,Berlin
 1985,Jimmy Ashworth,Male,United Kingdom,02:11:43,Berlin
 1985,Magda Ilands,Female,Belgium,02:34:10,Berlin
 1984,John Skovbjerg,Male,Denmark,02:13:35,Berlin
-1984,¡gnes Sipka,Female,Hungary,02:39:32,Berlin
+1984,√Ågnes Sipka,Female,Hungary,02:39:32,Berlin
 1983,Karel Lismont,Male,Belgium,02:13:37,Berlin
 1983,Karen Holdsworth,Female,United Kingdom,02:40:32,Berlin
 1982,Domingo Tibaduiza,Male,Colombia,02:14:47,Berlin
@@ -98,18 +98,18 @@ year,winner,gender,country,time,marathon
 1981,Ian Ray,Male,United Kingdom,02:15:42,Berlin
 1981,Angelika Stephan,Female,Germany,02:47:24,Berlin
 1980,Ingo Sensburg,Male,Germany,02:16:48,Berlin
-1980,Gerlinde P¸ttmann,Female,Germany,02:47:18,Berlin
+1980,Gerlinde P√ºttmann,Female,Germany,02:47:18,Berlin
 1979,Ingo Sensburg,Male,Germany,02:21:09,Berlin
 1979,Jutta von Haase,Female,Germany,03:07:07,Berlin
-1978,Michael Spˆttel,Male,Germany,02:20:03,Berlin
+1978,Michael Sp√∂ttel,Male,Germany,02:20:03,Berlin
 1978,Ursula Blaschke,Female,Germany,02:57:09,Berlin
-1977,G¸nter Mielke,Male,Germany,02:15:19,Berlin
+1977,G√ºnter Mielke,Male,Germany,02:15:19,Berlin
 1977,Christa Vahlensieck,Female,Germany,02:34:48,Berlin
 1976,Ingo Sensburg,Male,Germany,02:23:08,Berlin
 1976,Jutta von Haase,Female,Germany,03:05:19,Berlin
-1975,Ralf Bochrˆder,Male,Germany,02:47:08,Berlin
-1975,Christin Bochrˆder,Female,Germany,02:59:15,Berlin
-1974,G¸nter Hallas,Male,Germany,02:44:53,Berlin
+1975,Ralf Bochr√∂der,Male,Germany,02:47:08,Berlin
+1975,Christin Bochr√∂der,Female,Germany,02:59:15,Berlin
+1974,G√ºnter Hallas,Male,Germany,02:44:53,Berlin
 1974,Jutta von Haase,Female,Germany,03:22:01,Berlin
 2018,Yuki Kawauchi,Male,Japan,02:15:58,Boston
 2018,Desi Linden,Female,United States,02:39:54,Boston
@@ -206,7 +206,7 @@ year,winner,gender,country,time,marathon
 1973,Jacqueline Hansen,Female,United States,03:05:59,Boston
 1972,Olavi Suomalainen,Male,Finland,02:15:39,Boston
 1972,Nina Kuscsik,Female,United States,03:10:26,Boston
-1971,¡lvaro MejÌa,Male,Colombia,02:18:45,Boston
+1971,√Ålvaro Mej√≠a,Male,Colombia,02:18:45,Boston
 1971,Sara Mae Berman,Female,United States,03:08:30,Boston
 1970,Ron Hill,Male,United Kingdom,02:10:30,Boston
 1970,Sara Mae Berman,Female,United States,03:05:07,Boston
@@ -219,8 +219,8 @@ year,winner,gender,country,time,marathon
 1966,Kenji Kimihara,Male,Japan,02:17:11,Boston
 1966,Bobbi Gibb,Female,United States,03:21:40,Boston
 1965,Morio Shigematsu,Male,Japan,02:16:33,Boston
-1964,AurËle Vandendriessche,Male,Belgium,02:19:59,Boston
-1963,AurËle Vandendriessche,Male,Belgium,02:18:58,Boston
+1964,Aur√®le Vandendriessche,Male,Belgium,02:19:59,Boston
+1963,Aur√®le Vandendriessche,Male,Belgium,02:18:58,Boston
 1962,Eino Oksanen,Male,Finland,02:23:48,Boston
 1961,Eino Oksanen,Male,Finland,02:23:39,Boston
 1960,Paavo Kotila,Male,Finland,02:20:54,Boston
@@ -234,16 +234,16 @@ year,winner,gender,country,time,marathon
 1952,Doroteo Flores,Male,Guatemala,02:31:53,Boston
 1951,Shigeki Tanaka,Male,Japan,02:27:45,Boston
 1950,Ham Kee-Yong,Male,South Korea,02:32:39,Boston
-1949,Gˆsta Leandersson,Male,Sweden,02:31:50,Boston
-1948,GÈrard CÙtÈ,Male,Canada,02:31:02,Boston
+1949,G√∂sta Leandersson,Male,Sweden,02:31:50,Boston
+1948,G√©rard C√¥t√©,Male,Canada,02:31:02,Boston
 1947,Suh Yun-bok,Male,South Korea,02:25:39,Boston
 1946,Stylianos Kyriakides,Male,Greece,02:29:27,Boston
 1945,John A. Kelley,Male,United States,02:30:40,Boston
-1944,GÈrard CÙtÈ,Male,Canada,02:31:50,Boston
-1943,GÈrard CÙtÈ,Male,Canada,02:28:25,Boston
+1944,G√©rard C√¥t√©,Male,Canada,02:31:50,Boston
+1943,G√©rard C√¥t√©,Male,Canada,02:28:25,Boston
 1942,Joe Smith,Male,United States,02:26:51,Boston
 1941,Leslie S. Pawson,Male,United States,02:30:38,Boston
-1940,GÈrard CÙtÈ,Male,Canada,02:28:28,Boston
+1940,G√©rard C√¥t√©,Male,Canada,02:28:28,Boston
 1939,Ellison Brown,Male,United States,02:28:51,Boston
 1938,Leslie S. Pawson,Male,United States,02:35:34,Boston
 1937,Walter Young,Male,Canada,02:33:20,Boston
@@ -267,7 +267,7 @@ year,winner,gender,country,time,marathon
 1919,Carl Linder,Male,United States,02:29:13,Boston
 1917,Bill Kennedy,Male,United States,02:28:37,Boston
 1916,Arthur Roth,Male,United States,02:27:16,Boston
-1915,…douard Fabre,Male,Canada,02:31:41,Boston
+1915,√âdouard Fabre,Male,Canada,02:31:41,Boston
 1914,James Duffy,Male,Canada,02:25:14,Boston
 1913,Fritz Carlson,Male,United States,02:25:14,Boston
 1912,Michael J. Ryan,Male,United States,02:21:18,Boston
@@ -302,11 +302,11 @@ year,winner,gender,country,time,marathon
 2010,Edna Kiplagat,Female,Kenya,02:28:20,NYC
 2009,Meb Keflezighi,Male,United States,02:09:15,NYC
 2009,Derartu Tulu,Female,Ethiopia,02:28:52,NYC
-2008,MarÌlson Gomes dos Santos,Male,Brazil,02:08:43,NYC
+2008,Mar√≠lson Gomes dos Santos,Male,Brazil,02:08:43,NYC
 2008,Paula Radcliffe,Female,United Kingdom,02:23:56,NYC
 2007,Martin Lel,Male,Kenya,02:09:04,NYC
 2007,Paula Radcliffe,Female,United Kingdom,02:23:09,NYC
-2006,MarÌlson Gomes dos Santos,Male,Brazil,02:09:58,NYC
+2006,Mar√≠lson Gomes dos Santos,Male,Brazil,02:09:58,NYC
 2006,Jelena Prokopcuka,Female,Latvia,02:25:05,NYC
 2005,Paul Tergat,Male,Kenya,02:09:30,NYC
 2005,Jelena Prokopcuka,Female,Latvia,02:24:41,NYC
@@ -328,15 +328,15 @@ year,winner,gender,country,time,marathon
 1997,Franziska Rochat-Moser,Female,Switzerland,02:28:43,NYC
 1996,Giacomo Leone,Male,Italy,02:09:54,NYC
 1996,Anuta Catuna,Female,Romania,02:28:18,NYC
-1995,Germ·n Silva,Male,Mexico,02:11:00,NYC
+1995,Germ√°n Silva,Male,Mexico,02:11:00,NYC
 1995,Tegla Loroupe,Female,Kenya,02:28:06,NYC
-1994,Germ·n Silva,Male,Mexico,02:11:21,NYC
+1994,Germ√°n Silva,Male,Mexico,02:11:21,NYC
 1994,Tegla Loroupe,Female,Kenya,02:27:37,NYC
-1993,AndrÈs Espinosa,Male,Mexico,02:10:04,NYC
+1993,Andr√©s Espinosa,Male,Mexico,02:10:04,NYC
 1993,Uta Pippig,Female,Germany,02:26:24,NYC
 1992,Willie Mtolo,Male,South Africa,02:09:29,NYC
 1992,Lisa Ondieki,Female,Australia,02:24:40,NYC
-1991,Salvador GarcÌa,Male,Mexico,02:09:28,NYC
+1991,Salvador Garc√≠a,Male,Mexico,02:09:28,NYC
 1991,Liz McColgan,Female,United Kingdom,02:27:32,NYC
 1990,Douglas Wakiihuri,Male,Kenya,02:12:39,NYC
 1990,Wanda Panfil,Female,Poland,02:30:45,NYC
@@ -413,31 +413,31 @@ year,winner,gender,country,time,marathon
 2002,Paula Radcliffe,Female,United Kingdom,02:18:56,London
 2001,Abdelkader El Mouaziz,Male,Morocco,02:07:09,London
 2001,Derartu Tulu,Female,Ethiopia,02:23:57,London
-2000,AntÛnio Pinto,Male,Portugal,02:06:36,London
+2000,Ant√≥nio Pinto,Male,Portugal,02:06:36,London
 2000,Tegla Laroupe,Female,Kenya,02:24:33,London
 1999,Abdelkader El Mouaziz,Male,Morocco,02:07:57,London
 1999,Joyce Chepchumba,Female,Kenya,02:23:22,London
-1998,Abel AntÛn,Male,Spain,02:07:57,London
+1998,Abel Ant√≥n,Male,Spain,02:07:57,London
 1998,Catherina McKiernan,Female,Ireland,02:26:26,London
-1997,AntÛnio Pinto,Male,Portugal,02:07:55,London
+1997,Ant√≥nio Pinto,Male,Portugal,02:07:55,London
 1997,Joyce Chepchumba,Female,Kenya,02:26:51,London
-1996,Dionicio CerÛn,Male,Mexico,02:10:00,London
+1996,Dionicio Cer√≥n,Male,Mexico,02:10:00,London
 1996,Liz McColgan,Female,United Kingdom,02:27:54,London
-1995,Dionicio CerÛn,Male,Mexico,02:08:30,London
+1995,Dionicio Cer√≥n,Male,Mexico,02:08:30,London
 1995,Malgorzata Sobanska,Female,Poland,02:27:43,London
-1994,Dionicio CerÛn,Male,Mexico,02:08:53,London
-1994,Katrin Dˆrre-Heinig,Female,Germany,02:32:34,London
+1994,Dionicio Cer√≥n,Male,Mexico,02:08:53,London
+1994,Katrin D√∂rre-Heinig,Female,Germany,02:32:34,London
 1993,Eamonn Martin,Male,United Kingdom,02:10:50,London
-1993,Katrin Dˆrre-Heinig,Female,Germany,02:27:09,London
-1992,AntÛnio Pinto,Male,Portugal,02:10:02,London
-1992,Katrin Dˆrre-Heinig,Female,Germany,02:29:39,London
+1993,Katrin D√∂rre-Heinig,Female,Germany,02:27:09,London
+1992,Ant√≥nio Pinto,Male,Portugal,02:10:02,London
+1992,Katrin D√∂rre-Heinig,Female,Germany,02:29:39,London
 1991,Yakov Tolstikov,Male,Soviet Union,02:09:17,London
 1991,Rosa Mota,Female,Portugal,02:26:14,London
 1990,Allister Hutton,Male,United Kingdom,02:10:10,London
 1990,Wanda Panfil,Female,Poland,02:26:31,London
 1989,Douglas Wakiihuri,Male,Kenya,02:09:03,London
-1989,VÈronique Marot,Female,United Kingdom,02:25:56,London
-1988,Henrik J¯rgensen,Male,Denmark,02:10:20,London
+1989,V√©ronique Marot,Female,United Kingdom,02:25:56,London
+1988,Henrik J√∏rgensen,Male,Denmark,02:10:20,London
 1988,Ingrid Kristiansen,Female,Norway,02:25:41,London
 1987,Hiromi Taniguchi,Male,Japan,02:09:50,London
 1987,Ingrid Kristiansen,Female,Norway,02:22:48,London
@@ -500,15 +500,15 @@ year,winner,gender,country,time,marathon
 1996,Marian Sutton,Female,United Kingdom,02:30:41,Chicago
 1995,Eamonn Martin,Male,United Kingdom,02:11:18,Chicago
 1995,Ritva Lemettinen,Female,Finland,02:28:27,Chicago
-1994,LuÌz AntÙnio,Male,Brazil,02:11:16,Chicago
+1994,Lu√≠z Ant√¥nio,Male,Brazil,02:11:16,Chicago
 1994,Kristy Johnston,Female,United States,02:31:34,Chicago
-1993,LuÌz AntÙnio,Male,Brazil,02:13:14,Chicago
+1993,Lu√≠z Ant√¥nio,Male,Brazil,02:13:14,Chicago
 1993,Ritva Lemettinen,Female,Finland,02:33:18,Chicago
-1992,JosÈ Cesar de Souza,Male,Brazil,02:16:14,Chicago
+1992,Jos√© Cesar de Souza,Male,Brazil,02:16:14,Chicago
 1992,Linda Somers,Female,United States,02:37:41,Chicago
 1991,Joseildo Rocha,Male,Brazil,02:14:33,Chicago
 1991,Midde Hamrin,Female,Sweden,02:36:21,Chicago
-1990,MartÌn Pitayo,Male,Mexico,02:09:41,Chicago
+1990,Mart√≠n Pitayo,Male,Mexico,02:09:41,Chicago
 1990,Aurora Cunha,Female,Portugal,02:30:11,Chicago
 1989,Paul Davies-Hale,Male,United Kingdom,02:11:25,Chicago
 1989,Lisa Weidenbach,Female,United States,02:28:15,Chicago
